@@ -1,7 +1,7 @@
-# Tech4all
-
+<h1 align="center">Tech4All</h1>
+<p align="center">
 <img width="207" height="202" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/a07d155a-f015-4069-9433-ec4df2a4a9d1" />
-
+</p>
 La questione relativa all'acquisizione delle opportune competenze digitali da parte dei cittadini
 italiani è un tema focale per l’AGID, la quale ha deciso, ai fini di arrivare all'ottenimento del
 suddetto obiettivo, di avvalersi dell’applicazione web Tech4All. Questo sistema intende
@@ -19,14 +19,23 @@ cui gli anziani rappresentano la fetta più ampia.
 
 ## Autori 
 Ferdinando Boccia - _Project Manager_ 
+
 Domenico D'Antuono - _Project Manager_ 
+
 Silvana De Martino - _Team Member_
+
 Luigi Nasta - _Team Member_
+
 Giuseppe Staiano - _Team Member_
+
 Arcangelo Ciaramella - _Team Member_
+
 Marco Capuano - _Team Member_
+
 Giovanni Salsano  - _Team Member_
+
 Giovanni Esposito - _Team Member_
+
 Giovanni Cerchia - _Team Member_
 
 
